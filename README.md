@@ -22,7 +22,7 @@ In this project, I gathered rideshare data between Uber and Lyft within the city
 
 - Push finalized CSV to Google Drive
 
-- Connect to cleaned CSVs using Tableau Public
+- Connect to CSVs using Tableau
 
 - Analysis
 
