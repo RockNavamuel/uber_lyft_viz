@@ -1,6 +1,6 @@
 # uber_lyft_viz
 ![Final_Dashboard](https://github.com/RockNavamuel/uber_lyft_viz/assets/94022495/71226e14-2fce-4776-a1c6-e145bc8b4607)
-Click on image for fullscreen
+_Click on image for fullscreen_
 
 
 **Project Description**
